@@ -1,6 +1,4 @@
-# Journal: Portfolio Submission
-
-
+Client Questions
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 Based on the present game, “Draw It or Lose It”, which is exclusively available on Android, the Gaming Room (client) project aims to create a web-based game that serves numerous platforms. The goal of the game is for various teams of several players to compete in four rounds of one minute each. When a photo is chosen from a library, one team guesses till time runs out. If no one responds, each opposing team member has 15 seconds to respond before time runs out. The Gaming Room's requirements for the game application included that more than one team can participate in the game at a time, each team should consist of multiple players, every team and game name must be unique to check if the name already exists, only one instance or session of the game can exist in memory at a time, and the web version of the game should closely mimic the Android version of the game "Draw It or Lose It", which is like the 1980s television game “Win, Lose, or Draw”.
 
